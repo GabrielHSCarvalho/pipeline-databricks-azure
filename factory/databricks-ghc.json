@@ -1,0 +1,9 @@
+{
+	"name": "databricks-ghc",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ff99bac-29f1-453e-a330-721ac5da055d",
+		"tenantId": "afa3dded-5043-41ec-a76d-eacf83f2bac3"
+	}
+}
